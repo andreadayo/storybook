@@ -13,6 +13,7 @@
   top: 20px;
   right: 20px;
   animation: fadeIn 0.3s ease-in-out;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .alert-message {

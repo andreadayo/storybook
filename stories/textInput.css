@@ -1,0 +1,15 @@
+.text-input {
+  display: flex;
+  flex-direction: column;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.text-input input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.error-text {
+  color: red;
+  font-size: 12px;
+}

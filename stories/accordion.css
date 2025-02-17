@@ -1,0 +1,17 @@
+.accordion {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.accordion-header {
+  padding: 10px;
+  background: #f5f5f5;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.accordion-content {
+  padding: 10px;
+}
